@@ -15,10 +15,17 @@ Identify different segments in the existing customer base, taking into account t
 **About the data**
 
 * Data is available on customers of the bank with their credit limit, the total number of credit cards the customer has, and different channels through which the customer has contacted the bank for any queries. These different channels include visiting the bank, online, and through a call center.
+  
 * Sl_no - Customer Serial Number
+  
 * Customer Key - Customer identification
+  
 * Avg_Credit_Limit - Average credit limit (currency is not specified, you can make an assumption around this)
+  
 * Total_Credit_Cards - Total number of credit cards
+  
 * Total_visits_bank - Total bank visits
+  
 * Total_visits_online - Total online visits
+  
 * Total_calls_made - Total calls made
